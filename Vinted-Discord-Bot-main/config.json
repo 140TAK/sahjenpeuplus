@@ -1,0 +1,67 @@
+{
+    "token": "OTU2MTY5Njg0MDQwOTU3OTgz.YjsUaQ.z5ZEu5SqOAGuQw-uoX3n9ebVnbM",
+    "prefix": "$",
+    "status": "Centrale Montmartre",
+    "suburl": {
+        "": {
+            "url": "",
+            "salon": ""
+        },
+        "https://discord.com/api/webhooks/958371928534564935/nzk4jGoei6U47p2j_ckl5zkfXjDDOQBiuG_y7RtMfMbH35ue4K4Iejm9sqJfcG4lSU_M": {
+            "url": "https://www.vinted.fr/vetements?search_text=supreme&search_id=4879527653&price_from=10&currency=EUR&price_to=100&order=newest_first&brand_id[]=14969&brand_id[]=764525&brand_id[]=3753069&brand_id[]=4864798&brand_id[]=4875318&brand_id[]=6189663&brand_id[]=7299933&brand_id[]=5451830&brand_id[]=5753198",
+            "salon": "supreme-100\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372342432677929/WbWy7OufK5hBqtd7W3_XX6wc3ChySiqBHC1mWbhBiJtlG6ZSgw9FqQoyKGtEPVu1EGV4": {
+            "url": "https://www.vinted.fr/vetements?search_text=cp%20company&search_id=4879544301&price_from=10&currency=EUR&order=newest_first&price_to=130&brand_id[]=73952",
+            "salon": "haut-cp-company-130\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372711812456510/SHGVH2dIP4DimHeIlr8uNEaW-LhUqZ0agHQDgtcRRJYKOcXO4vzD8Rgj-YUkzSLdBMbC": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879592281&price_from=10&currency=EUR&order=newest_first&search_text=stone%20island&price_to=100&catalog[]=2052&catalog[]=76&catalog[]=79&brand_id[]=73306",
+            "salon": "haut-stone-island-90\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372754313326622/2aA3rJ-uKPFjeB7OPlX9oCbqzWsiZpxfT0F0EYmkCjBrKO_YFXrICgPjtC72wocD0bYh": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879592281&price_from=10&currency=EUR&order=newest_first&search_text=stone%20island&brand_id[]=73306&price_to=100&catalog[]=257&catalog[]=34&catalog[]=80",
+            "salon": "bas-stone-island-100\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372802073870406/KiLuWqtXE5UjyKBcNdhmKYCT8d4Lzf4KwqE6tGi_Z28FbQTHIpF9jgO3iQmp_u8SouEz": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879669882&price_from=10&currency=EUR&order=newest_first&price_to=150.00&brand_id[]=319730",
+            "salon": "arcteryx-150\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372856624984084/JrjMsvWjiNyDZemq4AsHwdyowGu-5zAdBIP-qVvGAh3UhPbEx-jFrVCnCDpi6dgj4jo4": {
+            "url": "https://www.vinted.fr/vetements?search_id=4691962867&currency=EUR&order=newest_first&search_text=cargo%20carhartt&brand_id[]=362&brand_id[]=872289&price_from=0&price_to=25",
+            "salon": "cargo-carhartt-25\u20ac"
+        },
+        "https://discord.com/api/webhooks/958372907355078736/Ch1pXUdqNa5WpTjTf71R52D-tx1UeGDE1O9PygplKcqQH5K8UwlGtjLakdxp0DuWeCLJ": {
+            "url": "https://www.vinted.fr/vetements?search_text=sacoche%20prada&search_id=4886264732&catalog[]=19&brand_id[]=3573&price_from=0&currency=EUR&price_to=150&order=newest_first",
+            "salon": "sacoche-prada-150\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373000904847460/dDdziCEh0X6mh1cZ53TJnE4zKPABWtDkgl1cJdrw3a4sqte6X-pFfpT7QQsD54-O8KAD": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879696179&currency=EUR&order=newest_first&search_text=Prada&price_from=10&price_to=100&brand_id[]=3573&catalog[]=34&catalog[]=257",
+            "salon": "pantalon-prada-100\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373049491681300/7iGSkDr1XDc8038ddI_4ZN_zYRsBAZdJHJYbjIo2Ul0b_1Cx7CRumPEkTk4-erumR37e": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879696179&currency=EUR&order=newest_first&search_text=Prada&price_from=10&price_to=100&brand_id[]=3573&catalog[]=1206&catalog[]=76&catalog[]=79",
+            "salon": "haut-prada-100\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373103854055504/66yN6yAgwxeL5n39bRJDstkrFlgN-n1v4LDOLsHuVFO3nDb5tHqYCl5EX1raAbbNpMUN": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879747121&currency=EUR&order=newest_first&search_text=Burberry%20Sacoche&price_from=10&price_to=100",
+            "salon": "sacoche-burberry-100\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373151547465758/MZwlnhvluw3J29o_kvYoJcTaGIlOuAbpXjeXZ9iIz_eCzWvHLUIMzZj7YAQ2StH5OGl3": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879758538&currency=EUR&order=newest_first&search_text=evisu&price_from=10&price_to=70&brand_id[]=214088&catalog[]=257&catalog[]=34",
+            "salon": "pants-evisu-70\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373212918542357/ElLvlUzkganFEJSo6gifjWm0LUUCc17E-jN0dcGg-tgGkthvEyPzrXdgZP7W11do19aH": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879768353&currency=EUR&order=newest_first&search_text=BAPE&price_from=10&price_to=200&catalog[]=79&brand_id[]=4698593",
+            "salon": "sweat-bape-200\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373267905847306/iUdRYrYhIINblCy-CGO3Lhs9snv9OGmvHzBdyvGmR7SOeZO0a-Bh5GrAHaoQHbo2Ur30": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879768353&currency=EUR&order=newest_first&search_text=BAPE&price_from=0&brand_id[]=4698593&price_to=30&catalog[]=77",
+            "salon": "tee-bape-30\u20ac"
+        },
+        "https://discord.com/api/webhooks/958373329377566743/3r0vv1F1UizNvTTAToAec8ycPiiocHPo17Ko8yTzXNKLEoOc7E5lUeuK231rSPThyYRN": {
+            "url": "https://www.vinted.fr/vetements?search_id=4879789334&currency=EUR&order=newest_first&price_from=0&price_to=30&search_text=Supreme&brand_id[]=14969&brand_id[]=3753069&brand_id[]=764525&brand_id[]=4864798&brand_id[]=4875318&brand_id[]=6189663&brand_id[]=7299933&brand_id[]=5451830&brand_id[]=5753198&catalog[]=77",
+            "salon": "tee-supreme-30\u20ac"
+        }
+    }
+}
